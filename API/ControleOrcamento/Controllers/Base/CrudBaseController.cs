@@ -11,7 +11,7 @@ namespace ControleOrcamento.Controllers.Base {
         }
 
         [HttpGet]
-        public ActionResult<TEntidade> obterTodos() {
+        public ActionResult<TEntidade> obterTodos() { 
             var users = _repositorio.ObterTodos();
 
             return Ok(users);
