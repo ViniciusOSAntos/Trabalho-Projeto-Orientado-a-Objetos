@@ -61,3 +61,5 @@ C:\Users\leand\Desktop\ControleOrcamento\API\API\ControleOrcamento\bin\Debug\net
 C:\Users\leand\Desktop\ControleOrcamento\API\API\ControleOrcamento\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\Users\leand\Desktop\ControleOrcamento\API\API\ControleOrcamento\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\leand\Desktop\ControleOrcamento\API\API\ControleOrcamento\obj\Debug\netcoreapp3.1\ControleOrcamento.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\leand\Desktop\ControleOrcamento\API\API\ControleOrcamento\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\leand\Desktop\ControleOrcamento\API\API\ControleOrcamento\obj\Debug\netcoreapp3.1\ControleOrcamento.csproj.AssemblyReference.cache
