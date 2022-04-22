@@ -12,6 +12,9 @@ namespace ControleOrcamento.Banco {
 
         }
         public DbSet<Usuario> Usuarios { get; set; }
-      
+        public DbSet<Ativo> Ativos { get; set; }
+        public DbSet<Passivo> Passivos { get; set; }
+        public DbSet<Investimento> Investimentos { get; set; }
+
     }
 }

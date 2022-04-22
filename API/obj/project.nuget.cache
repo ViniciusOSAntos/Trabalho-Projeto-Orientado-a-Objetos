@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "aGOCuGeZx7EZtbzRMO8pgMpthY9SXWqlIJzc4Bb9IWOkMVtz6NzuCoT+YmFsDNmq7sPVzZjCTzIjw7+Ir6Mwiw==",
+  "dgSpecHash": "2C0s7zOf0EoD8OYMvDJWJNFcOVDpq4rc91ECeHm6jTyDDW6VE+qV8iKq314IN/7e1zl4xWwBWklpV0MTayL7SA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\leand\\Desktop\\ControleOrcamento\\ControleOrcamento.csproj",
+  "projectFilePath": "C:\\Users\\leand\\Desktop\\ControleOrcamento\\API\\API\\ControleOrcamento.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\leand\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.3\\microsoft.entityframeworkcore.6.0.3.nupkg.sha512",
-    "C:\\Users\\leand\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.3\\microsoft.entityframeworkcore.abstractions.6.0.3.nupkg.sha512",
-    "C:\\Users\\leand\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\6.0.3\\microsoft.entityframeworkcore.analyzers.6.0.3.nupkg.sha512",
+    "C:\\Users\\leand\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.4\\microsoft.entityframeworkcore.6.0.4.nupkg.sha512",
+    "C:\\Users\\leand\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.4\\microsoft.entityframeworkcore.abstractions.6.0.4.nupkg.sha512",
+    "C:\\Users\\leand\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\6.0.4\\microsoft.entityframeworkcore.analyzers.6.0.4.nupkg.sha512",
     "C:\\Users\\leand\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\leand\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\6.0.0\\microsoft.extensions.caching.abstractions.6.0.0.nupkg.sha512",
     "C:\\Users\\leand\\.nuget\\packages\\microsoft.extensions.caching.memory\\6.0.1\\microsoft.extensions.caching.memory.6.0.1.nupkg.sha512",
