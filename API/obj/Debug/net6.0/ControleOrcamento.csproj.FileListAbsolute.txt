@@ -1,6 +1,0 @@
-C:\Users\leand\Desktop\ControleOrcamento\API\API\obj\Debug\net6.0\ControleOrcamento.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\leand\Desktop\ControleOrcamento\API\API\obj\Debug\net6.0\ControleOrcamento.AssemblyInfoInputs.cache
-C:\Users\leand\Desktop\ControleOrcamento\API\API\obj\Debug\net6.0\ControleOrcamento.AssemblyInfo.cs
-C:\Users\leand\Desktop\ControleOrcamento\API\API\obj\Debug\net6.0\ControleOrcamento.csproj.CoreCompileInputs.cache
-C:\Users\leand\Desktop\ControleOrcamento\API\API\obj\Debug\net6.0\ControleOrcamento.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\leand\Desktop\ControleOrcamento\API\API\obj\Debug\net6.0\ControleOrcamento.MvcApplicationPartsAssemblyInfo.cache
